@@ -2,8 +2,10 @@ body{
     background-color: #FFF;
 }
 .container {
-    width: 1170px;
+    width: 90%;
+    max-width: 1100px;
     margin: auto;
+    
 }
 /*start header */
 .header .navbar h2 {float: left;
@@ -39,6 +41,9 @@ h2 img {
 .header .slider .button_cont {
     background-image: url("../copiety9dpgs1y4epdwtwy0.jpg");
     height: 400px;
+    
+    background-position-y: 0%;
+    background-position-x: center; 
     
     
     
